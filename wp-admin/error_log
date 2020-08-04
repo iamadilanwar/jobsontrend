@@ -1,0 +1,1 @@
+[09-Apr-2020 11:01:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 40960 bytes) in /home/techodsc/public_html/jobsontrend.com/wp-content/plugins/td-composer/legacy/common/wp_booster/td_util.php on line 1671

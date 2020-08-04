@@ -1,0 +1,4 @@
+[01-May-2020 16:53:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/techodsc/public_html/jobsontrend.com/wp-content/plugins/jetpack/jetpack.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/techodsc/public_html/jobsontrend.com/wp-content/plugins/jetpack/jetpack.php on line 21
